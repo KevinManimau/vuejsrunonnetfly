@@ -1,5 +1,6 @@
 {
   "name": "poc-vue-client-netlify",
+  "proxy" : "https://nodejstestheroku.herokuapp.com",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
